@@ -1,9 +1,9 @@
-release/
-build/
-private/
-test.yaml
-sessions/
-certs/
-data/
-.env
-evilginx2
+# release/
+# build/
+# private/
+# test.yaml
+# sessions/
+# certs/
+# data/
+# .env
+# evilginx2
